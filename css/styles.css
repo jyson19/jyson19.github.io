@@ -476,7 +476,9 @@ footer {
   padding: 15px;
 }
 .project-info h3 {
-  font-size: 1.5em;
+  /* font-size: 1.5em; */
+  font-family: Nanum Gothic;
+  font-size: 25px;
   font-weight: 300;
   color: #374054;
   margin: 0 0 15px 0;
